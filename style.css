@@ -1,0 +1,20 @@
+/*
+#btn {
+  
+  margin: auto;
+}
+.but {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+*/
+
+.box-question {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+.question {
+  margin: auto;
+}
